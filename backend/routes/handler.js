@@ -23,7 +23,7 @@ router.get('/tweets', (req, res) => {
 });
 
 router.post('/addTweet', (req, res) => {
-    res.end('NA');
+    res.end('NAa');
 });
 
 module.exports = router;
